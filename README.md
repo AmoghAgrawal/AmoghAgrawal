@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/d2/8d/16/d28d165c6ad5f93bc8951074f7db5118.png" width="400" height="300">
+<img align = "center" src="https://i.pinimg.com/originals/21/8b/3a/218b3adfa7f1535f99b8e07a614698e4.png" width="400" height="300">
 
 Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India.
 I am a school student currently studying at Amity International School, Sector-46, Gurugram and I am a member of the school's computer club, [Tech Syndicate](https://github.com/techsyndicate).
