@@ -1,6 +1,6 @@
 Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India.
 
-<img align="right" alt="GIF" src="https://blog.advids.co/wp-content/uploads//2017/12/3d_test-min.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/130603/screenshots/4584563/x2_main_01_dribbble.gif" width="400" height="300" />
   
 **Talking about Personal Stuffs:**
 
