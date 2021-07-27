@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/8c/f7/d3/8cf7d3e466512981b969f7a771d2b004.gif" width="1700">
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=amoghagrawal.amoghagrawal) 
+![](https://visitor-badge.glitch.me/badge?page_id=amoghagrawal.amoghagrawal) 
 ![Profile views](https://gpvc.arturio.dev/AmoghAgrawal?v=3)
 
 Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India.
