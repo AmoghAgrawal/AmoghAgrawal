@@ -8,9 +8,9 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
 - 🌱 I’m also improving my skills in Blender; 
 - 💬 Ask me about anything, I am happy to help;
 
- ### 📫 Connect with me<img src="https://acegif.com/wp-content/gifs/handshake-47.gif" height="32px">
+ ### 📫 Connect with me #<img src="https://acegif.com/wp-content/gifs/handshake-47.gif" height="32px">
  
-<a href="https://tinyurl.com/BlenderThingsYT"><img src="https://img.icons8.com/fluent/2x/youtube-play.png" width="40"></a>|<a href="https://twitter.com/Chatra57643667"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://t.me/Pulkit_Champ"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_19-telegram-256.png" width="40"></a>|<a href="https://discord.gg/nJvwp9VHzf"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>|<a href="mailto:pulkit.handa@ais.amity.edu"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+<a href="https://tinyurl.com/BlenderThingsYT"><img src="https://img.icons8.com/fluent/2x/youtube-play.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://img.icons8.com/fluent/2x/twitter.png" width="40"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://img.icons8.com/fluent/2x/github.png" width="40"></a>|<a href="https://discord.gg/nJvwp9VHzf"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>|<a href="mailto:pulkit.handa@ais.amity.edu"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
 |--|--|--|--|--|
 
 <details>
