@@ -11,7 +11,7 @@ I am a school student currently studying at Amity International School, Sector-4
 
  ### 📫 Connect with me through -
  
-<a href="https://tinyurl.com/BlenderThingsYT"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/96/iconmonstr-youtube-6.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png" width="40"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-github-1.png" width="40"></a>|<a href="https://t.me/amoghagrawal"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-github-1.png" width="40"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-github-1.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="https://www.clipartmax.com/png/middle/158-1587271_email-icon-vector-circle.png" width="40"></a>|
+<a href="https://tinyurl.com/BlenderThingsYT"><img src="Asset/Youtube.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="Asset/Twitter.png" width="40"></a>|<a href="https://github.com/AmoghAgrawal"><img src="Asset/Github.png" width="40"></a>|<a href="https://t.me/amoghagrawal"><img src="Asset/Telegram.png" width="40"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="Asset/Artstation.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="Mail.png" width="40"></a>|
 |--|--|--|--|--|--|
 
 <details>
