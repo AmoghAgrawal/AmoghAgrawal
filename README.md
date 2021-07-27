@@ -10,7 +10,7 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
 
  ### 📫 Connect with me
  
-<a href="https://tinyurl.com/BlenderThingsYT"><img src="https://cdn3d.iconscout.com/3d/free/thumb/youtube-2950143-2447893.png" width="60"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://cdn3d.iconscout.com/3d/free/thumb/twitter-2950144-2447905.png" width="60"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://cdn3d.iconscout.com/3d/free/thumb/github-2950150-2447911.png" width="60"></a>|<a href="https://amoghagrawal.carrd.co/"><img src="https://cdn3d.iconscout.com/3d/free/thumb/dribbble-2950132-2447890.png" width="60"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
+<a href="https://tinyurl.com/BlenderThingsYT"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2013/96/iconmonstr-youtube-6.png" width="60"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-twitter-1.png" width="60"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-github-1.png" width="60"></a>|<a href="https://amoghagrawal.carrd.co/"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-soundcloud-1.png" width="60"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/96/iconmonstr-gmail-1.png" width="60"></a>|
 |--|--|--|--|--|
 
 <details>
