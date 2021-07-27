@@ -8,7 +8,7 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
 - 🌱 I’m also improving my skills in Blender; 
 - 💬 Ask me about anything, I am happy to help;
 
- ### 📫 Connect with me <img alt="GIF" src="<img align="right" alt="GIF" src="https://cdnl.iconscout.com/lottie/free/thumb/reveal-loading-3585777-3162482.mp4" width="40" height="40" />
+ ### 📫 Connect with me
  
 <a href="https://tinyurl.com/BlenderThingsYT"><img src="https://cdn3d.iconscout.com/3d/free/thumb/youtube-2950143-2447893.png" width="60"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://cdn3d.iconscout.com/3d/free/thumb/twitter-2950144-2447905.png" width="60"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://cdn3d.iconscout.com/3d/free/thumb/github-2950150-2447911.png" width="60"></a>|<a href="https://amoghagrawal.carrd.co/"><img src="https://cdn3d.iconscout.com/3d/free/thumb/dribbble-2950132-2447890.png" width="60"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
 |--|--|--|--|--|
@@ -16,55 +16,30 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
 <details>
 <summary>Favorite Tech and Tools</summary>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, websites, and other things that I like to work with and visit for inspiration.
 
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="Assets/html.gif" width="48" height="48" alt="HTML" />
+        <img src="Assets/html.gif" width="48" height="48" alt="Dribble" />
       </a>
-      <br>HTML
+      <br>Dribble
     </td>
     <td align="center" width="96">
-        <img src="Assets/css.gif" width="48" height="48" alt="CSS" />
+        <img src="Assets/css.gif" width="48" height="48" alt="Pinterest" />
       </a>
-      <br>CSS
+      <br>Pinterest
     </td>
     <td align="center" width="96">
-        <img src="Assets/vscode.webp" width="48" height="48" alt="VS Code" />
+        <img src="Assets/vscode.webp" width="48" height="48" alt="Artstation" />
       </a>
-      <br>VS Code
+      <br>Artstation
     </td>
     <td align="center" width="96">
-        <img src="Assets/python.gif" width="48" height="48" alt="Python" />
+        <img src="Assets/python.gif" width="48" height="48" alt="Youtube" />
       </a>
-      <br>Python
+      <br>Youtube
     </td>
-    <td align="center" width="96">
-        <img src="Assets/git.gif" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/js.webp" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/bootstrap.gif" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="Assets/github.webp" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
-    </td>
-  </tr>
+    </tr>
 </table>
 </details>
