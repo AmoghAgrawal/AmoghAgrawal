@@ -8,7 +8,7 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
 - 🌱 I’m also improving my skills in Blender; 
 - 💬 Ask me about anything, I am happy to help;
 
- ### 📫 Connect with me <img src=https://cdn.iconscout.com/icon/premium/png-64-thumb/social-media-network-1655237-1405969.png" height="25px">
+ ### 📫 Connect with me <img src="https://cdn.iconscout.com/icon/premium/png-64-thumb/social-media-network-1655237-1405969.png" height="25px">
  
 <a href="https://tinyurl.com/BlenderThingsYT"><img src="https://cdn3d.iconscout.com/3d/free/thumb/youtube-2950143-2447893.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="https://cdn3d.iconscout.com/3d/free/thumb/twitter-2950144-2447905.png" width="40"></a>|<a href="https://github.com/AmoghAgrawal"><img src="https://cdn3d.iconscout.com/3d/free/thumb/github-2950150-2447911.png" width="40"></a>|<a href="https://amoghagrawal.carrd.co/"><img src="https://cdn3d.iconscout.com/3d/free/thumb/dribbble-2950132-2447890.png" width="40"></a>|<a href="mailto:pulkit.handa@ais.amity.edu"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|
 |--|--|--|--|--|
