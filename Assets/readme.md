@@ -1,2 +1,1 @@
-Asset files for my readme page
-AKA nothing to see here
+Asset files for my readme page aka nothing to see here
