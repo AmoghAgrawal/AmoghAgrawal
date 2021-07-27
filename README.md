@@ -4,7 +4,7 @@ Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on some abstract art and animations:;
+- 👨🏽‍💻 I’m currently working on some abstract art and animations;
 - 🌱 I’m also improving my skills in Blender; 
 - 💬 Ask me about anything, I am happy to help;
 
