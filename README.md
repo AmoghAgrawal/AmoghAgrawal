@@ -8,7 +8,7 @@ I am a school student currently studying at Amity International School, Sector-4
 - 👨🏽‍💻 I’m currently working on some abstract art and animations 🙂;
 - 🌱 I’m also improving my skills in Blender; 
 - 💬 Ask me about anything, I am happy to help;
-- 🏆 I'm also interested in reading books especially murder mysteries 🕵️‍♀️;
+- 📖 I'm also interested in reading books especially murder mysteries 🕵️‍♀️;
 
 
  ### 📫 Connect with me through -
