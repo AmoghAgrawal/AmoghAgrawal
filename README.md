@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/AmoghAgrawal?v=3)
+<img src="https://i.pinimg.com/originals/a6/b0/ac/a6b0ac5cd058770c6d8ee2f0e9d1cbcb.gif" width="400">
 
 Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India.
 I am a school student currently studying at Amity International School, Sector-46, Gurugram and I am a member of the school's computer club, [Tech Syndicate](https://github.com/techsyndicate).
