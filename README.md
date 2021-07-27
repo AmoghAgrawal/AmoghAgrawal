@@ -1,6 +1,6 @@
 Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="400" height="200" />
+<img align="right" alt="GIF" src="https://blog.advids.co/wp-content/uploads//2017/12/3d_test-min.gif" width="300" height="200" />
   
 **Talking about Personal Stuffs:**
 
