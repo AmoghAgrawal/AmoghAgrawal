@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/t2CX7nb.gif" width="1700">
+<img src="https://i.pinimg.com/originals/8c/f7/d3/8cf7d3e466512981b969f7a771d2b004.gif" width="1700">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amoghagrawal.amoghagrawal) 
 ![Profile views](https://gpvc.arturio.dev/AmoghAgrawal?v=3)
