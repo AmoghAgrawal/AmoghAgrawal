@@ -1,11 +1,8 @@
 <img src="https://i.imgur.com/t2CX7nb.gif" width="1700">
 
-![](https://visitor-badge.glitch.me/badge?page_id=pulkitchamp.pulkitchamp) 
-![Profile views](https://gpvc.arturio.dev/Pulkitchamp?v=3)
-
 Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="Assets/code.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="800" height="600" />
   
 **Talking about Personal Stuffs:**
 
