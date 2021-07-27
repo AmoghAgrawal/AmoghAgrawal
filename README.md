@@ -11,8 +11,8 @@ I am a school student currently studying at Amity International School, Sector-4
 
  ### 📫 Connect with me through -
  
-<a href="https://tinyurl.com/BlenderThingsYT"><img src="Asset/Youtube.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="Asset/Twitter.png" width="40"></a>|<a href="https://github.com/AmoghAgrawal"><img src="Asset/Github.png" width="40"></a>|<a href="https://t.me/amoghagrawal"><img src="Asset/Telegram.png" width="40"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="Asset/Artstation.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="Mail.png" width="40"></a>|
-|--|--|--|--|--|--|
+<a href="https://tinyurl.com/BlenderThingsYT"><img src="Asset/Youtube.png" width="40"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="Asset/Twitter.png" width="40"></a>|<a href="https://t.me/amoghagrawal"><img src="Asset/Telegram.png" width="40"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="Asset/Artstation.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="Mail.png" width="40"></a>|
+|--|--|--|--|--|
 
 <details>
 <summary>Favorite Tech and Tools</summary>
@@ -40,6 +40,16 @@ I am a school student currently studying at Amity International School, Sector-4
         <img src="Assets/python.gif" width="48" height="48" alt="Youtube" />
       </a>
       <br>Youtube
+    </td>
+     <td align="center" width="96">
+        <img src="Assets/python.gif" width="48" height="48" alt="Behance" />
+      </a>
+      <br>Behance
+    </td>
+    <td align="center" width="96">
+        <img src="Assets/python.gif" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
     </td>
     </tr>
 </table>
