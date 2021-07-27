@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/AmoghAgrawal?v=5)
+![Profile views](https://gpvc.arturio.dev/AmoghAgrawal?v=1)
 
 Hi 👋, I'm Amogh Agrawal, a passionate self-taught 3D Desinger 🍩 from India.
 
