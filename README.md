@@ -1,8 +1,6 @@
-<img src="https://i.imgur.com/t2CX7nb.gif" width="1700">
-
 Hi, I'm Pulkit Handa, a passionate self-taught Full Stack Web Developer 🚀 from India.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="800" height="600" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/1c/a7/49/1ca74946ed770bb635e4de4711bd861f.gif" width="400" height="200" />
   
 **Talking about Personal Stuffs:**
 
