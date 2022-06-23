@@ -5,10 +5,9 @@ I am a school student and member of our school's tech club - [Tech Syndicate](ht
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on some abstract art and animations 🙂;
-- 🌱 I’m also improving my skills in Blender; 
+- 👨🏽‍💻 Might be working on some projects;
 - 💬 Ask me about anything, I am happy to help;
-- 📖 I'm also interested in reading books especially murder mysteries 🕵️‍♀️;
+- 📖 Trying to branch out into more fields like a/v and webd;
 
 
  ### 📫 Connect with me through <img src="Asset/Handshake.png" height="19px">
