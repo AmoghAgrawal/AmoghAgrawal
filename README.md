@@ -12,7 +12,7 @@ I am a school student and member of our school's tech club - [Tech Syndicate](ht
 
  ### 📫 Connect with me through <img src="Asset/Handshake.png" height="19px">
  
-<a href="https://tinyurl.com/BlenderThingsYT"><img src="Asset/Youtube.png" width="51"></a>|<a href="https://twitter.com/AmoghAgrawal7"><img src="Asset/Twitter.png" width="35"></a>|<a href="https://t.me/amoghagrawal"><img src="Asset/Telegram.png" width="35"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="Asset/Artstation.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="Asset/Mail.png" width="51"></a>|
+<a href="https://tinyurl.com/BlenderThingsYT"><img src="Asset/Youtube.png" width="51"></a>|<a href="https://twitter.com/amoghhagrawal"><img src="Asset/Twitter.png" width="35"></a>|<a href="https://t.me/amoghagrawal"><img src="Asset/Telegram.png" width="35"></a>|<a href="https://www.artstation.com/amoghagrawal"><img src="Asset/Artstation.png" width="40"></a>|<a href="mailto:amogh.ggn@gmail.com"><img src="Asset/Mail.png" width="51"></a>|
 |--|--|--|--|--|
   
 <details>
